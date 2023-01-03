@@ -68,12 +68,12 @@ section{
 	padding: 160px 16% 90px;
 }
 .home{
-	height: 100vh;
+	height: 160vh;
 	width: 100%;
-	position: relative;
-	background: url(images/imageedited.jpg-removebg-preview.jpg);
+	position: justify;
+	background: url(images/image1.jpeg);
 	background-size: cover;
-	background-position: 400px;
+	background-position: 0px;
 	display: flex;
 	align-items: center;
 	justify-content: flex-start;
